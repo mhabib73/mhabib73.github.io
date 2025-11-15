@@ -34,8 +34,8 @@ content:
       tag: CV
     - name: NLP
       tag: NLP
-    - name: Sensors
-      tag: NLP
+    - name: UNO
+      tag: UNO
 
 design:
   columns: '1'
