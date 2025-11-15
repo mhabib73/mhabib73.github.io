@@ -34,6 +34,8 @@ content:
       tag: CV
     - name: NLP
       tag: NLP
+    - name: Sensors
+      tag: NLP
 
 design:
   columns: '1'
